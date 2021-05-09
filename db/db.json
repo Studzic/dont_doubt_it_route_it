@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "title": "Click on Me!",
+      "text": "Welcome to note-taker your one-stop shop to add and delete notes for future use!",
+      "id": "1ee64b80-34f0-49f4-9169-f03887e18adc"
+    },
+    {
+      "title": "How it Works",
+      "text": "Write your note title and description, if you would like to save a note, hit the save icon in the top right corner. If you would like to refresh hit the plus sign. Notes can be viewed and deleted in the left column. ",
+      "id": "a2c65625-91d1-472d-9d9f-cf5255cedc17"
+    }
+  ]
+}
