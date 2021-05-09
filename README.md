@@ -11,6 +11,7 @@
 - [Tests](#tests)
 - [Questions](#questions)
 - [Functionality](#functionality)
+- [Link](#link)
 ## Description
 This is a heroku deployed website that allows the user to add and delete notes.
 ## Installation
@@ -31,12 +32,8 @@ This README was generated with ❤️ by [README-generator](https://github.com/S
 
 ## Functionality
 
+![Untitled_ May 9, 2021 9_34 AM](https://user-images.githubusercontent.com/72447285/117574243-311f5d00-b0aa-11eb-8db8-2278916ba4cb.gif)
+![2021-05-09 (2)](https://user-images.githubusercontent.com/72447285/117574249-38df0180-b0aa-11eb-9666-db6945b748ff.png)
 
-💥[FullScreen Video Link](https://photos.app.goo.gl/48LMkeUZDHSqXBQo7)💥
-
-
-![Untitled_ May 7, 2021 12_18 AM](https://user-images.githubusercontent.com/72447285/117397373-fced4600-aec9-11eb-9b77-79cde933fbad.gif)
-
-![new](https://user-images.githubusercontent.com/72447285/117396874-e2ff3380-aec8-11eb-8bd3-878423f95a33.png)
-
+## Link https://rocky-shelf-39147.herokuapp.com/
 
