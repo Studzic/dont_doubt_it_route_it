@@ -1,17 +1,26 @@
 const express = require('express');
-const apiRoutes = require('./Develop/routes/apiRoutes');
-const htmlRoutes = require('./Develop/routes/htmlRoutes');
+const apiRoutes = require('./routes/apiRoutes');
+const htmlRoutes = require('./routes/htmlRoutes');
 
 // Initialize the app and create a port
 const app = express();
-const PORT = process.env.PORT || 3005;
 
-// Set up body parsing, static, and route middleware
-app.use(express.json());
+
+const PORT = process.env.PORT || 3001;
+
+// parse incoming string or array data
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static('public'));
+// parse incoming JSON data
+app.use(express.json());
+
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
-// Start the server on the port
-app.listen(PORT, () => console.log(`Listening on PORT: ${PORT}`));
+app.use(express.static('public'));
+
+
+
+
+app.listen(PORT, () => {
+    console.log(`API server now on port ${PORT}!`);
+});
