@@ -6,8 +6,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-
-- [Contributing ](#Contributing)
+- [Contributing](#Contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 - [Functionality](#functionality)
@@ -35,5 +34,6 @@ This README was generated with ❤️ by [README-generator](https://github.com/S
 ![Untitled_ May 9, 2021 9_34 AM](https://user-images.githubusercontent.com/72447285/117574243-311f5d00-b0aa-11eb-8db8-2278916ba4cb.gif)
 ![2021-05-09 (2)](https://user-images.githubusercontent.com/72447285/117574249-38df0180-b0aa-11eb-9666-db6945b748ff.png)
 
-## Link https://rocky-shelf-39147.herokuapp.com/
+## Link 
+[Note Taker](https://rocky-shelf-39147.herokuapp.com)<br />
 
